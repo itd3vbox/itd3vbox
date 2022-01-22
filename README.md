@@ -36,7 +36,7 @@ For example the Project “Shop”:
 - can have an AI Part, with Python (chat box, data analyse, …)
 
 <br>
-These Exercises and Projects at first more like: **Redo Step By Step**
+These Exercises and Projects at first more like: Redo Step By Step
 <br>
 So I need in future a Project, more like a Manual/Guide.
 <br><br>
@@ -61,7 +61,7 @@ So you can contribute to improve theses Exercices and Projects.
 
 Training Center can also propose direct contract with Companies.
 <br>
-Maybe **Big Companies** like Microsoft, Google, FaceBook, Amazon, Twitter, GitHub or any other **Big Companies** can also help, by creating 
+Maybe **Big Companies** like Microsoft, Google, FaceBook, Amazon, GitHub or any other **Big Companies** can also help, by creating 
 a new System Like that, because lot of these **Big Companies** hire people without 
 any Developer Background, and also this **Big Companies** will have more impact on Earth with Technology. 
 
