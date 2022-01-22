@@ -63,7 +63,7 @@ Training Center can also propose direct contract with Companies.
 <br>
 
 Maybe **Big Companies** like Microsoft, Google, FaceBook, Amazon, GitHub or any other **Big Companies** can also help, by creating 
-a new System Like that, because lot of these **Big Companies** hire people **Without 
+a New System like that, because lot of these **Big Companies** hire people **Without 
 Any Developer Background**, and also these **Big Companies** will have more impact on Earth with Technology. 
 
 
