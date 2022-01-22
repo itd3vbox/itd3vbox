@@ -6,8 +6,10 @@
 I am Freelancer, I work as Trainer at part-time Job, and in full remote position.
 <br>
 So I mainly use this account to expose Exercises and Projects to give Trainings.
+<!--
 <br>
 I am available as Trainer, ready to relocate, and also available in full remote.
+-->
 
 ### Developer
 --- 
