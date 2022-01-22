@@ -36,9 +36,9 @@ For example the Project “Shop”:
 - can have an AI Part, with Python (chat box, data analyse, …)
 
 <br>
-These Exercises and Projects at first more like: **Redo Step By Step**.
+These Exercises and Projects at first more like: **Redo Step By Step**
 <br>
-So I need in future a Project, more like a Manual.
+So I need in future a Project, more like a Manual/Guide.
 <br><br>
 Trainers will help Students, by teaching rapidly the maximum, and also helping to create with the Students some new features, 
 real Team Work, but on their own version (the Trainer or The Student repository).
