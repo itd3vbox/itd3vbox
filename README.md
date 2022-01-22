@@ -36,7 +36,7 @@ For example the Project “Shop”:
 - can have an AI Part, with Python (chat box, data analyse, …)
 
 <br>
-These Exercises and Projects at first more like: Redo Step By Step.
+These Exercises and Projects at first more like: **Redo Step By Step**.
 <br>
 So I need in future a Project, more like a Manual.
 <br><br>
