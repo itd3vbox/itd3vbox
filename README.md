@@ -40,11 +40,13 @@ For example the Project “Shop”:
 These Exercises and Projects are more like: **Redo Step By Step**
 <br>
 So I need in the future a Project, more like a Manual/Guide.
+<!--
 <br><br>
 Trainers can help Students, by teaching rapidly the maximum, and also create with the Students some new features, 
 real Team Work, but on their own version (the Trainer or The Student repository).
+-->
 
-
+<!--
 ### Contributions ✨ ⭐ 🙏 🌐
 ---
 
@@ -65,7 +67,7 @@ Training Center can also propose direct contract with Companies.
 Maybe **Big Companies** like Microsoft, Google, FaceBook, Amazon, GitHub or any other **Big Companies** can also help, by creating 
 a New System like that, because lot of these **Big Companies** hire people **Without 
 Any Developer Background**, and also these **Big Companies** will have more impact on Earth with Technology. 
-
+-->
 
 <!---
 itd3vbox/itd3vbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
