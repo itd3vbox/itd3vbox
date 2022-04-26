@@ -1,29 +1,11 @@
 # 👋 Hi, I’m Anonymous Box
 
-### Freelancer - Trainer
----
-
-I am Freelancer, I work as Trainer at part-time Job, and in full remote position.
-<br>
-So I mainly use this account to expose Exercises and Projects to give Trainings.
-<!--
-<br>
-I am available as Trainer, ready to relocate, and also available in full remote.
--->
-
 ### Developer
 --- 
 
-I am also a Developer, I build several Projects.
+I am a Developer, I build several Projects.
 <br>
 But I want to use this account to develop and share Exercises and Projects, for Educational Purpose.
-
-### Student
----
-
-I am a Student.
-<br>
-I am always learning, and not only on this field (Developer, Technology, …) but also in Science and Math.
 
 ### Exercices and Projects
 ---
