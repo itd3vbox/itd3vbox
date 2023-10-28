@@ -1,6 +1,6 @@
 # 💠 ITD3VBOX
 
-> 0000 0001 ... Bla Bla ... Blo Blo ... **[Français](#)** ...
+> 0000 0001 ... Bla Bla ... Blo Blo ... **[Français](https://github.com/itd3vbox/docs/blob/main/README.fr.md)** ...
 
 
 This ✨ GitHub Space ✨ is dedicated to a collection of demo projects that implement various technologies.
